@@ -1,0 +1,49 @@
+[coordinates]
+#window
+window_top_left = [642,32]
+window_width = 792
+window_height = 600
+#general
+tab = [1040, 16]
+center = [1040, 336]
+menu_party = [1064, 238]
+party_lead = [900, 200] # + 110 down + 400 right
+party_exit = [1325, 175]
+party_v_offset = 100
+party_h_offset = 300
+
+#misc
+reel_button = [1040, 520]
+
+#combat
+fight_button = [830, 465]
+run_button = [1270, 462]
+attack = [830, 420]
+attack_offset = 150
+cancel_replace_move = [1315, 420]
+gif_top_left = [1100, 225]
+gif_width = 100
+gif_height = 85
+
+#pokecenter
+healing = [1423, 260]
+yes_button = [1709, 200]
+
+[doodle_info]
+party_moves = [
+  [6, 25, 25, 20],
+  [30, 25, 25, 20],
+  [30, 25, 20, 15],
+  [20, 20, 10, 10],
+  [30, 20, 15, 10],
+  [30, 20, 15, 10],
+]
+
+# party_moves = [
+#     [0, 0, 0, 0],
+#     [0, 0, 0, 0],
+#     [0, 0, 0, 0],
+#     [0, 0, 0, 0],
+#     [0, 0, 0, 0],
+#     [0, 0, 0, 0]
+# ]
