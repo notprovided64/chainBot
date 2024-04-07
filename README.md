@@ -8,3 +8,9 @@ basic fishing bot for doodle world
     2. add a small screenshot of the doodle you're trying to chain to `/images/target` following the same rules as above
 5. setup your .env file with the two fields `DISCORD_TOKEN` and `CHANNEL_ID`
 6. run `chainbot.py`
+## Todo
+- [ ] create better default example files lol
+- [ ] switch image recognition to something ml based so you don't have to create a config for every device
+- [ ] test automation reliability over long periods of time
+- [X] integrate discord bot support
+- [X] let users mark unwanted doodle variants, saving them to the target folder
